@@ -1,1 +1,2 @@
 # msds600_autoML_project
+This project is about using cleaned churn data for setting up autoML with pycaret which shows the summary of the entire project, comparing models using cross-validation, finding the best model, saving and loading our model using python built-in module pickle, making predictions on the new data created by using iloc() function and a python file is created for making predictions on the new churn data.
